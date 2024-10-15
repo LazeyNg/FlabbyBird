@@ -1,0 +1,1766 @@
+fileFormatVersion: 2
+guid: bd7aed3f3ac4f8d419fd40ccd14f8b48
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a38348335ebcf2428fc59932dc776f9
+      internalID: -1422675378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 512
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f14646d3929c4f86b03cb37561423
+      internalID: 1453388201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 912
+        width: 336
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1bdaf7be8486488913665baaa34d1
+      internalID: -613571064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 976
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce404854b35879a4593a270d688e0e5c
+      internalID: 1258597424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1004
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc97b808a169bc8498c3a8695006c107
+      internalID: -512084007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 980
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a47e7f8cbbee942abddf792af1c6ad
+      internalID: -1231543535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_6
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 944
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc45a5fb85afff4e82d7c59c6bcbc95
+      internalID: 1019526166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 952
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e1ce2dc1ab528448b1b3a5cf5f56e8
+      internalID: 1781387665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 912
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4b66ae02ee9874090dec2b8df92794
+      internalID: 988536052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 920
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f2226051a74543b589fcb6ce7cc28
+      internalID: -1794309958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 846
+        width: 196
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddddab52ecfab0149988c6c09a6fff97
+      internalID: -1427186365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 854
+        width: 204
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c03fbb8c600e41b95f497a335a714
+      internalID: -1337782548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 868
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930241add20690144ac97f3dd233915d
+      internalID: -1954798927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_13
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 846
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf93047fdc69ae647bc4aa38ed68b1b4
+      internalID: -1477873364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_15
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 794
+        width: 178
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ff0f77e7377c438d73ffa049164ce
+      internalID: 405211928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_16
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 828
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34fcfab4f0613e4d985f899eb954fcd
+      internalID: -1015922551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_17
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 828
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae0a36fe5954a3489ee39d77075c86c
+      internalID: -993576777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_18
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 828
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936efae92812de143afad13cd9e9b3c2
+      internalID: 714833701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_24
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 745
+        width: 116
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d21ce1f4591644a7d0e569ba2414c
+      internalID: 1951899492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_27
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 720
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd9971e52e4d1c4a9cf5300adbb2aac
+      internalID: -37201732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_28
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 720
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc3496de868b4f43868c2099b2e9d21
+      internalID: 117173340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 712
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a0b9ddd41d7d44b87d8da48c4a848c
+      internalID: 1107054591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_30
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 712
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbc5b8423eb1864eb9cb877a5d4081a
+      internalID: 1219511651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_31
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 668
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd02c373da198541b451289888264b0
+      internalID: 1392876063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_32
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 668
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3870bf2ad03a145a1d56f7ff5255ea
+      internalID: -282827723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 668
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25c7ba725b0f74489bca23c402e7f8
+      internalID: 2014678815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_34
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 668
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b775f379d571a4086f959ee2a09c3b
+      internalID: 2022654216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 620
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773db06399f2acc4da9f767624db546b
+      internalID: -1095068327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 620
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f08bffab2c05478b4c9e0c7bc8bdf
+      internalID: -172773275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 620
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b919934081201449b1ad104423f345e
+      internalID: 837099181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_38
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 620
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09015d8793f0ee04fbc775dabfc984e9
+      internalID: 909039257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa3436b40f7204c8135e73c7ed1770
+      internalID: -1972380817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_40
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 592
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4bf1cbbdcf8fd4bb91ba2ae8be3029
+      internalID: 685471761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4262cfe8e8fc664990d1e5687f2750c
+      internalID: 1773486588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_42
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 520
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaab4c8572982842ae5cf021095ae6b
+      internalID: 149077274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 238
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf31c60537d1f40916ec280b8a083f
+      internalID: 2022108499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 464
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f328f7217aacc4bbaedcf000ce04a0
+      internalID: 1787048872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 416
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae2a133ee0426643b8a2148a4b18660
+      internalID: -1599472959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 384
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e33e3c43877bb4cbeefbbc8271c928
+      internalID: -702236085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_47
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 392
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda8092d95e48d144a13182abcce9b83
+      internalID: -2119257179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6605aaa46300adc46bf1a65a62b29adc
+      internalID: -185050352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 58
+        width: 53
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e5dc42e0ace0f418f7c17b19b549a3
+      internalID: -676012460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e1f58b56507347aa75f20cbf5f70c
+      internalID: 294753345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 58
+        width: 52
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb253dbe18f028449befa1b2ad6801c
+      internalID: -90515899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 342
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b1e32964e55549bf72800045ba4b7
+      internalID: -1894748448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_53
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 364
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f2700461143054b9ebd71d6c7cc7f1
+      internalID: 399960428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_54
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 346
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c99a201c60aed469a4c8543235a9c6
+      internalID: -201308370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_55
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5dae74dbd357e4d847331588e590c2
+      internalID: 1130012963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 312
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4547ef637f15b4ba681323efa477ab
+      internalID: -203837145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 294
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f18e42fa03520641ba96fba97d92710
+      internalID: 677367413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_58
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91588abca045b34a86a02e99715b423
+      internalID: -589792704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_59
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 238
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0618aa63ae78c594e8856c85ad82822f
+      internalID: -1525818554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 260
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c30f5fc7ebc4d24d85eebcf9a9f424a
+      internalID: -444044207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 242
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf024d5ead6e77458a2bc3d3d269c4a
+      internalID: -2028448672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_62
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ed7dac7c67ef4f9f637502c0e8a7a
+      internalID: -190888231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_63
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 186
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ac7cefafcb22b4abc37e817bc6b4e4
+      internalID: 2106848259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_64
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 208
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf98a2f244baa6547a8e2d989a2b177d
+      internalID: 1476857489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_65
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 190
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4662857c3089c94fbbbedbfe97da0a7
+      internalID: 1264886727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_66
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 134
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e19246407f22b4a8161faf520c1a04
+      internalID: 973725330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 156
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a91b098c1cf0f40822e737dde61725
+      internalID: -1279095133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_68
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e44da00d6cfa8a44be1fa22fd89998b
+      internalID: -1087845119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 74
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4335fbf5a0918341b13e2cd0efab900
+      internalID: -1824528023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_70
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 78
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f00405d1272cb342b3224241100cfb9
+      internalID: 1958722738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 26
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9812980f784b74d888b5c20a3bc9dc
+      internalID: -2099285796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_72
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 50
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed416ee2333ba40817fd9dcfae1135
+      internalID: -1500601088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_73
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f530389b2060ca41b351180a6f7d221
+      internalID: 1884814135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_74
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece30a6b89168f49be4d675b31aebef
+      internalID: -862757379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_75
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2900e9b5bdc3d6d448e5418e01e540e7
+      internalID: 2092076597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 18
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2358171686482674b9071c1cb7bc7b61
+      internalID: 1057187734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_77
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 26
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd473706d1382a643b6b2cd4a79602aa
+      internalID: -1869222260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4a81270e861e4f81e3fdc084a362f
+      internalID: 1009900586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc085346b39d864a87b1bec52ed6771
+      internalID: 1606912978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 336
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e424453628e4f4e43bd31dbfbe042322
+      internalID: -1008238592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      flappy-bird-atlas-png-atlas_0: -1422675378
+      flappy-bird-atlas-png-atlas_1: 1453388201
+      flappy-bird-atlas-png-atlas_10: -1427186365
+      flappy-bird-atlas-png-atlas_11: -1337782548
+      flappy-bird-atlas-png-atlas_12: -1954798927
+      flappy-bird-atlas-png-atlas_13: -1477873364
+      flappy-bird-atlas-png-atlas_14: 1200492810
+      flappy-bird-atlas-png-atlas_15: 405211928
+      flappy-bird-atlas-png-atlas_16: -1015922551
+      flappy-bird-atlas-png-atlas_17: -993576777
+      flappy-bird-atlas-png-atlas_18: 714833701
+      flappy-bird-atlas-png-atlas_19: -1008238592
+      flappy-bird-atlas-png-atlas_2: -613571064
+      flappy-bird-atlas-png-atlas_20: -1916443501
+      flappy-bird-atlas-png-atlas_21: 508728127
+      flappy-bird-atlas-png-atlas_22: -725642253
+      flappy-bird-atlas-png-atlas_23: -913304143
+      flappy-bird-atlas-png-atlas_24: 1951899492
+      flappy-bird-atlas-png-atlas_25: -816884761
+      flappy-bird-atlas-png-atlas_26: -364044584
+      flappy-bird-atlas-png-atlas_27: -37201732
+      flappy-bird-atlas-png-atlas_28: 117173340
+      flappy-bird-atlas-png-atlas_29: 1107054591
+      flappy-bird-atlas-png-atlas_3: 1258597424
+      flappy-bird-atlas-png-atlas_30: 1219511651
+      flappy-bird-atlas-png-atlas_31: 1392876063
+      flappy-bird-atlas-png-atlas_32: -282827723
+      flappy-bird-atlas-png-atlas_33: 2014678815
+      flappy-bird-atlas-png-atlas_34: 2022654216
+      flappy-bird-atlas-png-atlas_35: -1095068327
+      flappy-bird-atlas-png-atlas_36: -172773275
+      flappy-bird-atlas-png-atlas_37: 837099181
+      flappy-bird-atlas-png-atlas_38: 909039257
+      flappy-bird-atlas-png-atlas_39: -1972380817
+      flappy-bird-atlas-png-atlas_4: -512084007
+      flappy-bird-atlas-png-atlas_40: 685471761
+      flappy-bird-atlas-png-atlas_41: 1773486588
+      flappy-bird-atlas-png-atlas_42: 149077274
+      flappy-bird-atlas-png-atlas_43: 2022108499
+      flappy-bird-atlas-png-atlas_44: 1787048872
+      flappy-bird-atlas-png-atlas_45: -1599472959
+      flappy-bird-atlas-png-atlas_46: -702236085
+      flappy-bird-atlas-png-atlas_47: -2119257179
+      flappy-bird-atlas-png-atlas_48: -185050352
+      flappy-bird-atlas-png-atlas_49: -676012460
+      flappy-bird-atlas-png-atlas_5: -1231543535
+      flappy-bird-atlas-png-atlas_50: 294753345
+      flappy-bird-atlas-png-atlas_51: -90515899
+      flappy-bird-atlas-png-atlas_52: -1894748448
+      flappy-bird-atlas-png-atlas_53: 399960428
+      flappy-bird-atlas-png-atlas_54: -201308370
+      flappy-bird-atlas-png-atlas_55: 1130012963
+      flappy-bird-atlas-png-atlas_56: -203837145
+      flappy-bird-atlas-png-atlas_57: 677367413
+      flappy-bird-atlas-png-atlas_58: -589792704
+      flappy-bird-atlas-png-atlas_59: -1525818554
+      flappy-bird-atlas-png-atlas_6: 1019526166
+      flappy-bird-atlas-png-atlas_60: -444044207
+      flappy-bird-atlas-png-atlas_61: -2028448672
+      flappy-bird-atlas-png-atlas_62: -190888231
+      flappy-bird-atlas-png-atlas_63: 2106848259
+      flappy-bird-atlas-png-atlas_64: 1476857489
+      flappy-bird-atlas-png-atlas_65: 1264886727
+      flappy-bird-atlas-png-atlas_66: 973725330
+      flappy-bird-atlas-png-atlas_67: -1279095133
+      flappy-bird-atlas-png-atlas_68: -1087845119
+      flappy-bird-atlas-png-atlas_69: -1824528023
+      flappy-bird-atlas-png-atlas_7: 1781387665
+      flappy-bird-atlas-png-atlas_70: 1958722738
+      flappy-bird-atlas-png-atlas_71: -2099285796
+      flappy-bird-atlas-png-atlas_72: -1500601088
+      flappy-bird-atlas-png-atlas_73: 1884814135
+      flappy-bird-atlas-png-atlas_74: -862757379
+      flappy-bird-atlas-png-atlas_75: 2092076597
+      flappy-bird-atlas-png-atlas_76: 1057187734
+      flappy-bird-atlas-png-atlas_77: -1869222260
+      flappy-bird-atlas-png-atlas_78: 1009900586
+      flappy-bird-atlas-png-atlas_79: 1606912978
+      flappy-bird-atlas-png-atlas_8: 988536052
+      flappy-bird-atlas-png-atlas_9: -1794309958
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
